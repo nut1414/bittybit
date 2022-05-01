@@ -1,4 +1,5 @@
 # Bittybit - Utility for extracting Bitty Engine .bit file.
+
 ## Usage
 ```bash
 bittybit.py filename.bit
